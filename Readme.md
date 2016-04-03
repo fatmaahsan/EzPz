@@ -6,3 +6,6 @@ This document will explain the scope & role of each folder.
    a) EzPzParkServerCode: Contains server related code.
    b) EzPzParkMobileAppCode: Contains Mobile App related code.
 4) 
+
+
+Sample Checkin
