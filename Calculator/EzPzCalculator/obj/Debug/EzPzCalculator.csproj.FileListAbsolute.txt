@@ -1,0 +1,8 @@
+H:\EzPzPark\EzPz\Calculator\EzPzCalculator\bin\Debug\EzPzCalculator.exe.config
+H:\EzPzPark\EzPz\Calculator\EzPzCalculator\bin\Debug\EzPzCalculator.exe
+H:\EzPzPark\EzPz\Calculator\EzPzCalculator\bin\Debug\EzPzCalculator.pdb
+H:\EzPzPark\EzPz\Calculator\EzPzCalculator\obj\Debug\EzPzCalculator.Form1.resources
+H:\EzPzPark\EzPz\Calculator\EzPzCalculator\obj\Debug\EzPzCalculator.Properties.Resources.resources
+H:\EzPzPark\EzPz\Calculator\EzPzCalculator\obj\Debug\EzPzCalculator.csproj.GenerateResource.Cache
+H:\EzPzPark\EzPz\Calculator\EzPzCalculator\obj\Debug\EzPzCalculator.exe
+H:\EzPzPark\EzPz\Calculator\EzPzCalculator\obj\Debug\EzPzCalculator.pdb
